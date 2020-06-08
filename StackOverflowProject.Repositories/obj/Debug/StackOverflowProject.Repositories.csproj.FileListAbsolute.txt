@@ -1,0 +1,14 @@
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.Repositories.dll.config
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.Repositories.dll
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.Repositories.pdb
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.dll
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.DomainModels.dll
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.DomainModels.pdb
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\StackOverflowProject.DomainModels.dll.config
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.xml
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.csprojAssemblyReference.cache
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.csproj.CopyComplete
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.dll
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.Repositories\obj\Debug\StackOverflowProject.Repositories.pdb

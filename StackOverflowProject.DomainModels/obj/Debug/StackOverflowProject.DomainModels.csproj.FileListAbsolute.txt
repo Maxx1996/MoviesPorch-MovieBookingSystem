@@ -1,0 +1,10 @@
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.dll.config
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.dll
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\StackOverflowProject.DomainModels.pdb
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.dll
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.xml
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.DomainModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.csproj.CopyComplete
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.dll
+D:\Office Work\StackOverflow Clone\StackOverflowProject\StackOverflowProject.DomainModels\obj\Debug\StackOverflowProject.DomainModels.pdb
